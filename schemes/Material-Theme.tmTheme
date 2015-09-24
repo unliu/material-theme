@@ -207,7 +207,7 @@ keyword.operator, constant.other.color, meta.tag, punctuation.definition.tag, pu
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#C3E88D</string>
+				<string>#97C475</string>
 			</dict>
 		</dict>
 		<dict>
@@ -273,7 +273,7 @@ keyword.operator, constant.other.color, meta.tag, punctuation.definition.tag, pu
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#ff5370ff</string>
+				<string>#E26B73ff</string>
 			</dict>
 		</dict>
 		<dict>
@@ -284,7 +284,7 @@ keyword.operator, constant.other.color, meta.tag, punctuation.definition.tag, pu
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FFCB6B</string>
+				<string>#D29A62</string>
 			</dict>
 		</dict>
 		<dict>
@@ -295,7 +295,7 @@ keyword.operator, constant.other.color, meta.tag, punctuation.definition.tag, pu
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FAD430</string>
+				<string>#D29A62</string>
 			</dict>
 		</dict>
 		<dict>
